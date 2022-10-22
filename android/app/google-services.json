@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318596630857",
+    "project_id": "anthai-1bfaf",
+    "storage_bucket": "anthai-1bfaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318596630857:android:f1c65aab2d351f2c553298",
+        "android_client_info": {
+          "package_name": "com.anthai.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318596630857-93i92v2qcqcqg8b882b7e3dvq7v4ngud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl9Ltqj0UT4CajgNTpzYLzFciqmeonSb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318596630857-93i92v2qcqcqg8b882b7e3dvq7v4ngud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
